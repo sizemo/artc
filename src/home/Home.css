@@ -1,0 +1,42 @@
+.Home .background:before {
+  background-image: url('../img/moose-header.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center -20rem;
+  opacity: 0.5;
+  z-index: 1;
+  width: 100%;
+  height: 20rem;
+  content: '';
+  display: block;
+  left: 0;
+  position: absolute;
+}
+
+@media (max-width: 1020px) {
+  .Home .background:before {
+    background-position: initial;
+  }
+}
+
+.Home .background h1 {
+  text-align: center;
+  padding-top: 10rem;
+}
+
+.Home .container {
+  margin-top: 10rem;
+}
+
+.Home h3 {
+  text-align: center;
+  color: #777777;
+}
+
+.Home .intro {
+  text-align: center;
+  font-style: italic;
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+}
