@@ -24,13 +24,12 @@
   padding-top: 10rem;
 }
 
-.Home .container {
+.Home .container, .Home .container-fluid {
   margin-top: 10rem;
 }
 
-.Home h3 {
+.Home h1, h2, h3, h4, h5, h6 {
   text-align: center;
-  color: #777777;
 }
 
 .Home .intro {
@@ -39,4 +38,24 @@
   width: 75%;
   margin-left: auto;
   margin-right: auto;
+}
+
+
+.Home .section {
+  margin-top: 1rem;
+  padding: 2rem;
+  cursor: pointer;
+}
+
+
+.Home .section h4 {
+  margin-top: 1rem;
+}
+
+.Home img.section-link {
+  width: 100%;
+  height: 10rem;
+  text-align: center;
+  object-fit: cover;
+  border: 1px solid darkgray;
 }
