@@ -24,7 +24,7 @@
   padding-top: 10rem;
 }
 
-.Home .container, .Home .container-fluid {
+.Home .container.Home-container, .Home .container-fluid.Home-container {
   margin-top: 10rem;
 }
 

@@ -5,6 +5,7 @@ import './App.css';
 import artcbrand from './artcbrand.png';
 import Routes from './Routes';
 import RouteNavItem from './components/RouteNavItem';
+import strava from './img/icon-strava.svg';
 
 class App extends Component {
 
@@ -26,9 +27,10 @@ class App extends Component {
             <Link to="/" className="navbar-brand"><img src={artcbrand} height="30px"/></Link>
           <div className="collapse navbar-collapse" id="navbarCollapse">
             <ul className="navbar-nav">
+              <RouteNavItem onClick={this.handleNavClick} href="/about">About</RouteNavItem>
               <RouteNavItem onClick={this.handleNavClick} href="/calendar">Calendar</RouteNavItem>
               <RouteNavItem onClick={this.handleNavClick} href="/shop">Shop</RouteNavItem>
-              <RouteNavItem onClick={this.handleNavClick} href="/resources">Resources</RouteNavItem>
+              <RouteNavItem onClick={this.handleNavClick} href="/resources">Resources</RouteNavItem> 
             </ul>
           </div> 
         </nav>
@@ -40,6 +42,7 @@ class App extends Component {
               <a className="nav-item nav-link footer-link" href="https://www.instagram.com/artrackclub/" target="_blank" title="Instagram"><span className="fa fa-instagram"></span></a>
               <a className="nav-item nav-link footer-link" href="https://www.reddit.com/r/artc" target="_blank" title="reddit"><span className="fa fa-reddit"></span></a>
               <a className="nav-item nav-link footer-link" href="https://twitter.com/artrackclub" target="_blank" title="twitter"><span className="fa fa-twitter"></span></a>
+              <a className="nav-item nav-link footer-link" href="https://www.strava.com/clubs/artc" target="_blank" title="Strava"><img height="18" src={strava} class="fa-fw fa-lg" /></a>
           </div>
         </nav>
       </div>

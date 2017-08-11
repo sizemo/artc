@@ -5,6 +5,7 @@ import Home from './home/Home';
 import Calendar from './calendar/Calendar';
 import Shop from './shop/Shop';
 import Resources from './resources/Resources';
+import About from './about/About';
 
 export default () => (
   <Switch>
@@ -12,5 +13,6 @@ export default () => (
     <Route path="/calendar" exact component={Calendar}/>
     <Route path="/shop" exact component={Shop}/>
     <Route path="/resources" exact component={Resources}/>
+    <Route path="/about" exact component={About}/>
   </Switch>
 );
