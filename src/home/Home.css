@@ -22,6 +22,7 @@
 .Home .background h1 {
   text-align: center;
   padding-top: 10rem;
+  text-decoration-color: #04304D;
 }
 
 .Home .container.Home-container, .Home .container-fluid.Home-container {
@@ -30,6 +31,20 @@
 
 .Home h1, h2, h3, h4, h5, h6 {
   text-align: center;
+  font-family: 'bebas-neue', sans-serif;
+  font-style: normal;
+}
+
+.Home h3 {
+    font-size: 50;
+}
+
+.Home h1 {
+    font-size: 65;
+}
+
+.Home h4 {
+    font-size: 35;
 }
 
 .Home .intro {
@@ -58,4 +73,10 @@
   text-align: center;
   object-fit: cover;
   border: 1px solid darkgray;
+}
+
+.Home p {
+    font-family: 'Bebas Neue';
+    font-style: italic;
+    font-size: 26;
 }

@@ -1,3 +1,14 @@
 .About {
   margin-top: 5rem;
 }
+
+h1, {
+    font-family: 'Helvetica Neue';
+    font-style: thin italic;
+    font-size: 50;
+}
+
+p {
+    font-family: 'Helvetica Neue';
+    font-size: 20;
+}

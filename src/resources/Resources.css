@@ -1,5 +1,7 @@
 .Resources p {
   text-align: center;
+  font-family: 'Helvetica Neue',  sans-serif;
+  
 }
 
 .Resources h2 {
@@ -9,3 +11,18 @@
 .Resources .links {
   margin-top: 2rem;
 }
+
+.Resources .container h2 {
+    font-family: 'Bebas Neue', sans-serif;
+    text-transform: uppercase;
+    font-size: 60;
+    font-style: normal;
+}
+
+.Resources .links h4 {
+    font-family: 'Bebas Neue', sans-serif;
+    text-transform: uppercase;
+    font-size: 40;
+    font-style: normal;
+}
+
