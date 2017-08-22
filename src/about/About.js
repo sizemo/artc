@@ -11,11 +11,11 @@ class About extends Component {
     return (
       <div className="About">
         <div className="container">
-          <h1><i>We are the Advanced Running Track Club.</i></h1>
+          <h1><i>We are ARTC.</i></h1>
           <p>Welcome to the ARTC website. We are delighted to explain to you what on earth we are.</p>
           <p>We’re a running club. We’re scattered around the globe, though. This makes us a little different from most running clubs, because they’re traditionally location-based. We’ve never been location-based, though. We started out as a bunch of strangers on the internet.</p>
           <p>We huddle around a subreddit called <a href="https://www.reddit.com/r/artc" target="_blank">/r/artc</a>.  There are many running subreddits, but we found a smaller community of people who are really into running as a competitive sport, rather than just running as a means of getting fit, where we talk about training, the pros, and racing.</p>
-          <p>Over time, the community became more active and the discussion and camaraderie flourished. People offered up both their PRs and their failed race reports, and as we shared our training cycles and our goals, we got to know each other as more than just usernames on a forum. A Strava group was created, After that, ideas for an official Advanced Running racing singlet started. So one of our own singlehandedly organized an international shipment of ARTC singlets. Then we decided we wanted another singlet, and some hats and some decals and some patches and suddenly we looked more like a legit running club than just an offshoot of a subreddit. Somewhere in all of that, ARTC was born.</p>
+          <p>Over time, the community became more active and the discussion and camaraderie flourished. People offered up both their PRs and their failed race reports, and as we shared our training cycles and our goals, we got to know each other as more than just usernames on a forum. A Strava group was created, After that, ideas for an official AR racing singlet started. So one of our own singlehandedly organized an international shipment of ARTC singlets. Then we decided we wanted another singlet, and some hats and some decals and some patches and suddenly we looked more like a legit running club than just an offshoot of a subreddit. Somewhere in all of that, ARTC was born.</p>
 
           <h1><i>Okay, so what's with the moose?</i></h1>
           <p>ARTC’s mascot is a moose. We throw up the moose antlers as we cross the finish line (when we remember). We #RUNTHEMOOSE on Instagram, and we refer to each other as fellow ‘meese’. But moose aren’t particularly fast. They’re not historically related to running in any way. So, why a moose?</p>

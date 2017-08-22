@@ -7,7 +7,7 @@ class Resources extends Component {
       <div className="Resources">
         <div className="container">
           <h2>Resources</h2>
-          <p className="tight">The unique nature of the AR Track Club means that we have a permanent and constantly-growing archive of knowledge at our disposal. We've collected links to the ones that our members have felt are the most useful and have them listed here for an easily-accessible repository of running knowledge on a variety of topics.</p>
+          <p className="tight">The unique nature of ARTC means that we have a permanent and constantly-growing archive of knowledge at our disposal. We've collected links to the ones that our members have felt are the most useful and have them listed here for an easily-accessible repository of running knowledge on a variety of topics.</p>
 
           <div className="links row">
             <div className="col">

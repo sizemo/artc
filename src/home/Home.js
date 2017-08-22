@@ -19,12 +19,12 @@ class Home extends Component {
           <h1><i>#RUNTHEMOOSE</i></h1>
         </div>
         <div className="container-fluid Home-container">
-          <h3>AR Track Club - It's a mindset.</h3>
+          <h3>ARTC - It's a mindset.</h3>
           
           <div className="intro">
             <p className="tight">We're not based in a single location. We have no dues and we have no membership requirements. We don't get to work out on the same tracks often, but when we work out together, it's pretty fantastic.</p>
             
-            <p className="tight">The Advanced Running Track Club is born of the internet and is open to anyone who shares out love of the sport of running, regardless of where in the world you live. Advanced doesn't have a minimum pace or weekly mileage goal. It doesn't discriminate between tracks and trails and roads. Advanced is a mindset.</p>
+            <p className="tight">ARTC is born of the internet and is open to anyone who shares out love of the sport of running, regardless of where in the world you live. ARTC doesn't have a minimum pace or weekly mileage goal. It doesn't discriminate between tracks and trails and roads. ARTC is a mindset.</p>
           </div>
 
           <div className="container">
