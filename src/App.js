@@ -27,10 +27,11 @@ class App extends Component {
             <Link to="/" className="navbar-brand"><img src={artcbrand} height="30px"/></Link>
           <div className="collapse navbar-collapse" id="navbarCollapse">
             <ul className="navbar-nav">
+              <RouteNavItem onClick={this.handleNavClick} href="/">Home</RouteNavItem>
               <RouteNavItem onClick={this.handleNavClick} href="/about">About</RouteNavItem>
               <RouteNavItem onClick={this.handleNavClick} href="/calendar">Calendar</RouteNavItem>
               <RouteNavItem onClick={this.handleNavClick} href="/shop">Shop</RouteNavItem>
-              <RouteNavItem onClick={this.handleNavClick} href="/resources">Resources</RouteNavItem> 
+              <RouteNavItem onClick={this.handleNavClick} href="/resources">Resources</RouteNavItem>
             </ul>
           </div> 
         </nav>
