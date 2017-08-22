@@ -23,6 +23,7 @@
   text-align: center;
   padding-top: 10rem;
   text-decoration-color: #04304D;
+  opacity: 1;
 }
 
 .Home .container.Home-container, .Home .container-fluid.Home-container {
@@ -31,20 +32,22 @@
 
 .Home h1, h2, h3, h4, h5, h6 {
   text-align: center;
-  font-family: 'bebas-neue', sans-serif;
-  font-style: normal;
 }
 
 .Home h3 {
-    font-size: 50;
+    font-size: 45px;
+    font-family: 'BenchNine', sans-serif;
 }
 
 .Home h1 {
-    font-size: 65;
+    font-size: 65px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
 }
 
 .Home h4 {
-    font-size: 35;
+    font-size: 35px;
+    font-family: 'BenchNine', sans-serif;
 }
 
 .Home .intro {
@@ -76,7 +79,7 @@
 }
 
 .Home p {
-    font-family: 'fira-sans';
+    font-family: 'Arial', sans-serif;
     font-style: italic;
-    font-size: 26;
+    font-size: 20px;
 }

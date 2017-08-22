@@ -17,7 +17,7 @@ class Resources extends Component {
                 <li><a href="https://www.reddit.com/r/AdvancedRunning/comments/4rnzpv/the_summer_series_jack_daniels/" target="_blank">Daniels</a></li>
                 <li><a href="https://www.reddit.com/r/AdvancedRunning/comments/4twcbg/the_summer_series_hansons/" target="_blank">Hanson</a></li>
                 <li><a href="https://www.reddit.com/r/AdvancedRunning/comments/4ssmfl/the_summer_series_arthur_lydiard/" target="_blank">Lydiard</a></li>
-                <li><a href="https://www.reddit.com/r/AdvancedRunning/comments/4v0clh/the_summer_series_hal_higdon_and_friends/" target="_blank">Higdon & misc</a></li>
+                <li><a href="https://www.reddit.com/r/AdvancedRunning/comments/4v0clh/the_summer_series_hal_higdon_and_friends/" target="_blank">Higdon and Others</a></li>
               </ul>
             </div>
 
@@ -26,7 +26,7 @@ class Resources extends Component {
               <ul>
                 <li><a href="https://www.reddit.com/r/artc/comments/6rbm9a/the_summer_series_how_do_i_pr_in_the_5k/" target="_blank">How to PR in the 5K</a></li>
                 <li><a href="https://www.reddit.com/r/AdvancedRunning/comments/51qtul/the_summer_series_how_do_i_pr_in_the_half_marathon" target="_blank">How to PR in the Half Marathon</a></li>
-                <li><a href="https://www.reddit.com/r/AdvancedRunning/comments/50miq8/the_summer_series_how_do_i_bq/" target="_blank">How to BQ?</a></li>
+                <li><a href="https://www.reddit.com/r/AdvancedRunning/comments/50miq8/the_summer_series_how_do_i_bq/" target="_blank">How to BQ</a></li>
                 <li><a href="https://www.reddit.com/r/AdvancedRunning/comments/5ox4ss/the_winter_huddle_race_nutrition/" target="_blank">Nutrition</a></li>
               </ul>
             </div>

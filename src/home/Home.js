@@ -23,7 +23,7 @@ class Home extends Component {
           
           <div className="intro">
             <p className="tight">We're not based in a single location. We have no dues and we have no membership requirements. We don't get to work out on the same tracks often, but when we work out together, it's pretty fantastic.</p>
-            <br/><br/>
+            
             <p className="tight">The Advanced Running Track Club is born of the internet and is open to anyone who shares out love of the sport of running, regardless of where in the world you live. Advanced doesn't have a minimum pace or weekly mileage goal. It doesn't discriminate between tracks and trails and roads. Advanced is a mindset.</p>
           </div>
 
